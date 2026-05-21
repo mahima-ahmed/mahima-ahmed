@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently a computer science engineering student based in madrid (spain). im learning programming and want to develop my skills further. the programming language thta i'm learning is python. would like to collaborate to learn more.
+I'm currently a Computer Engineering student based in Madrid, Spain. I'm learning programming and want to develop my skills further. The programming languageS that I learnt so far are Python and C. Looking forward to learn more and improve my skills.
 
 
 ## 🌐 Socials:
@@ -19,9 +19,6 @@ I'm currently a computer science engineering student based in madrid (spain). im
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahima-ahmed&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahima-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
