@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently a Computer Engineering student based in Madrid, Spain. I'm learning programming and want to develop my skills further. The programming languageS that I learnt so far are Python and C. Looking forward to learn more and improve my skills.
+I'm currently a Computer Engineering student based in Madrid, Spain. I'm learning programming and want to develop my skills further. The programming languages that I learnt so far are Python and C. Looking forward to learn more and improve my skills.
 
 
 ## 🌐 Socials:
